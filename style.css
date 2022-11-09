@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Lobster&family=Paytone+One&display=swap');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+.card{
+    width: 300px;
+    height: 400px;
+    background: fixed linear-gradient(145deg, #6ec7dd, #62acbe);
+    padding-top: 1px;
+    border-radius: 5px;
+    margin: 0 auto;
+    box-shadow:  20px 20px 60px #254047,
+    -20px -20px 60px #93ffff;
+}
+.card-body{
+  width: 250px;
+  height: 350px; 
+  background: #0f0; 
+  margin: 25px auto;
+  border-radius: 10px;
+
+}
+.card-body-top{
+height: 300px;
+background: rgb(8, 132, 167);
+border-radius: 10px 10px 0 0;
+box-shadow:  46px 46px 82px #254047,
+             -46px -46px 82px #93ffff;
+}
+.card-body-bottom{
+    height: 50px;
+    background: rgb(19, 98, 134);
+    border-radius:0 0 10px 10px;
+    box-shadow:  20px 20px 60px #000000,
+    -20px -20px 60px #8affff;
+}
+.img{
+    display: block; 
+    width: 200px;
+    margin: 0 auto;
+}
+.text{
+    font-family: 'Paytone One', sans-serif; 
+    font-size: 49px;
+    text-align: center; 
+    color: rgb(47, 92, 174);
+             
+}
+.like{
+    width: 45px;
+    height: 45px;
+    margin: 0 auto;
+    margin-top: -23px;
+box-shadow:  46px 46px 82px #254047,
+}
+body{
+    background: fixed linear-gradient(145deg, #5391a0, #62acbe);
+}
+
+
+.card2{
+    width: 300px;
+    height: 400px;
+    background: fixed linear-gradient(145deg, #6ec7dd, #62acbe);
+    padding-top: 1px;
+    border-radius: 5px;
+    margin: 0 auto;
+    box-shadow:  20px 20px 60px #254047,
+    -20px -20px 60px #93ffff;
+}
+.card-body2{
+  width: 250px;
+  height: 350px; 
+  background: #0f0; 
+  margin: 25px auto;
+  border-radius: 10px;
+
+}
+.card-body-top2{
+height: 300px;
+background: rgb(8, 132, 167);
+border-radius: 10px 10px 0 0;
+box-shadow:  46px 46px 82px #254047,
+             -46px -46px 82px #93ffff;
+}
+.card-body-bottom2{
+    height: 50px;
+    background: rgb(19, 98, 134);
+    border-radius:0 0 10px 10px;
+    box-shadow:  20px 20px 60px #000000,
+    -20px -20px 60px #8affff;
+}
+.img2{
+    display: block; 
+    width: 200px;
+    margin: 0 auto;
+}
+.text2{
+    font-family: 'Paytone One', sans-serif; 
+    font-size: 49px;
+    text-align: center; 
+    color: rgb(47, 92, 174);
+             
+}
+.like2{
+    width: 45px;
+    height: 45px;
+    margin: 0 auto;
+    margin-top: -23px;
+box-shadow:  46px 46px 82px #254047,
+}
